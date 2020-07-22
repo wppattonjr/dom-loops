@@ -1,6 +1,6 @@
 "use strict";
 
-const colors = ['red', "orange", "blue", "yellow", "green"]
+/* const colors = ['red', "orange", "blue", "yellow", "green"]
 
 const colorLoop = () => {
     let domString = "";
@@ -12,4 +12,4 @@ const colorLoop = () => {
     console.log(domString)
 }
 
-colorLoop()
+colorLoop() */
